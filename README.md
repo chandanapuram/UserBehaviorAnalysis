@@ -19,6 +19,6 @@ UserBehaviorAnalysis/
 │   |--assignment_solution.py
 │
 |--report/
-│   |-- findings_report.md (or Finding Report User Behaviour.pdf)
+│   |-- findings_report.md (or Finding Report User Behaviour Analysis.pdf)
 │
 ├── README.md
